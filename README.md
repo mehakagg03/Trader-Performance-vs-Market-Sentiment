@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project analyzes the relationship between market sentiment (measured by the Fear & Greed Index) and trader performance metrics. By segmenting data into psychological regimes (Fear, Neutral, and Greed), we identify how shifts in market emotion influence profitability, risk-taking, and trading frequency.
 
-Objectives
+### Objectives
 - Performance Benchmarking: Compare PnL and Win Rates across different sentiment phases.
 
 - Behavioral Mapping: Determine if traders increase leverage or trade frequency based on sentiment.
